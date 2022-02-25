@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine letters declaring in part the passage of affaires in the Palatinate, from September to this present moneth of April Together, with the articles of agreement betweene the princes of the Vnion and the Lord Marquis Spinola.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68022</idno>
+            <idno type="STC">STC 1037</idno>
+            <idno type="STC">ESTC S104443</idno>
+            <idno type="EEBO-CITATION">99840181</idno>
+            <idno type="PROQUEST">99840181</idno>
+            <idno type="VID">4656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4656)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1370:06, 1553:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine letters declaring in part the passage of affaires in the Palatinate, from September to this present moneth of April Together, with the articles of agreement betweene the princes of the Vnion and the Lord Marquis Spinola.</title>
+                  <author>I. B.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed,</publisher>
+                  <pubPlace>At Ampsterdam [i.e. London?] :</pubPlace>
+                  <date>this present moneth of April. 1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Three of the letters signed: I.B.</note>
+                  <note>In fact printed in London? (STC).</note>
+                  <note>Signatures: A-B⁴ C² .</note>
+                  <note>Identified as STC 19127 on UMI microfilm reel 1553.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery and the Bodleian Library.</note>
+                  <note>Appears at reel 1370 (Henry E. Huntington Library and Art Gallery copy) and at reel 1553 (Bodleian Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1616-1648 --  Germany --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4656:1"/>
+            <pb facs="tcp:4656:1"/>
+            <p>CERTAINE LETTERS DECLARING IN PART THE PASSAGE OF AFFAIRES IN THE PALATINATE, from September to this preſent Moneth of April.</p>
+            <p>
+               <hi>Together,</hi> With the Articles of Agreement betweene the Princes of the Vnion and the Lord Marquis <hi>SPINOLA.</hi>
+            </p>
+            <p>AT AMPSTERDAM Printed this preſent Moneth of April. 1621.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:4656:2"/>
+            <pb facs="tcp:4656:2"/>
+            <head>CERTAINE LETTERS declaring in part the paſſage of affaires in the Palatinate, from Septemb. <hi>to this preſent moneth of April.</hi>
+            </head>
+            <p>COunt <hi>Henrie</hi> of Naffaw with 36. companies of the States horſe, aſſiſted with 4000. Muſquitiers out of Gulick conducted the Lord Generall Sit <hi>Ho<g ref="char:EOLhyphen"/>ratio Vere.</hi>
+            </p>
+            <p>On the 15. day of September wee drew neare to Cob<g ref="char:EOLhyphen"/>lens with a reſolution to paſſe ouer the Rhine, and to goe to Frankford. The Towne of Coblins ſhowed vs their good will in ſhooting with Muſquits at vs, but our farre diſtance kept vs from hurt, though ſome were hit with fow<g ref="char:EOLhyphen"/>ling bullets. The Prince <hi>Henrie</hi> not withſtanding com<g ref="char:EOLhyphen"/>manded boates out of Coblens for our tranſport, threat<g ref="char:EOLhyphen"/>ning to burne their village if they ſhould refuſe to ſend them. And ſoon the 16 and 17. daies of September wee paſſed the Rhine ſome two miles belowe Coblens, and ta<g ref="char:EOLhyphen"/>king our way through Naffaw towards Hannaw which ly<g ref="char:EOLhyphen"/>eth on the North about Frankford, wee lodged both horſe and foote the 21. and 22. day in two Dorps called vppon Marlow and nether Marlow. Wee had before ſent 95. of our ſicke men, among whom were Captaine <hi>Rhae</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Dexter</hi> with ſome of our baggage from Coblens by boate to Bracrack, where they ariued the 21. of Septem<g ref="char:EOLhyphen"/>ber, being thurſday, and the 22. they together with the Towne were taken by ſuch as <hi>Spinola</hi> ſent thither, and there they yet remaine till their ranſome be payd (which is now in handling) all ſaue two or three that are dead, and three that were diſarmed and ſtript, brake away, and brought vs this newes to Wormes.</p>
+            <p>While we came to nether Marlow Count <hi>Henrie Van<g ref="char:EOLhyphen"/>denbergen</hi> drew all the enemies horſe out of the campe at Oppenheim and 4000. foote with ſome artillery, with in<g ref="char:EOLhyphen"/>tent to croſſe the Maine betwixt Ments and Frankford
+<pb facs="tcp:4656:3"/>to ſurpriſe vs the ſame night of our ariuall there, whither we came tired with a long march and hunger, not doubting any ſuch attempt. God only ſaued vs at this time from the enemy. For the enemy hauing paſſed all his horſe at a foord, and drawing out his munition and foote, was ſud<g ref="char:EOLhyphen"/>denly recalled by <hi>Spinola,</hi> being himſelfe preſent at the drowning of ſome of his foote, caried away by the force of the ſtreame, and ſome of his munition.</p>
+            <p>Wee marched from nether Marlow on Saturday the 23, And on Sunday the 24<g ref="char:punc">▪</g> we marched to the Maine ſide, neerer Hannaw then Frankford, and paſſed the riuer, the horſe and waggons ouer the foord, and ſome foote, the reſt by boates, and lodging in a dorpe, had two falſe al<g ref="char:EOLhyphen"/>larmes of <hi>Spinola</hi> his approch, which our men tooke with excellent ſilence and courage.</p>
+            <p>The next day we marched almoſt 20. Engliſh miles, and got Vinſtall a Towne in ſafetie from Cammiſſados, by which diligence <hi>Spinola</hi> who ſent to interrupt vs, fell be<g ref="char:EOLhyphen"/>hinde our Rere; but by this long march many of our men became weary and ſicke, who being left there, haue ſince gotten to vs as they recouered. Wee ſent to Heidelberg for their recouery. God ſhewing vs this mercy, that few of our men doe die, though many fall ſicke; whereas of <hi>Spinola</hi> his armie doe every day as is thought 60. die a days From Vinſtal we coſe on Tueſday, and quartred in a dorp, from whence the next day wee got into the ſtraights and mountaines of the Pallatinate, and lodged at Benſheric, about eight miles from Wormes on the North. Thus in a moneth ſpace our iourney to the Pallatinate was ended; in all which time wee had faire weather, and not ſo much as one houres raine. Victuals in the Biſhopricks of Ments, Tryer and Cullen were by the command of the Biſhops, as was diſcouered, kept from vs what they could, through wee offered to pay and did pay for what they ſold vnto vs: but as neceſſitie made new lawes vnto our men, ſo the prouidence of God watched ouer vs, that ſometime their ſwine and their cattell came out of the woods into our
+<pb facs="tcp:4656:3"/>quarters, and at one time of our great neede came 500. ſheepe out of the juriſdiction of Ments, from the wood thereof, when our men with a long march and want of meate were almoſt diſcouraged: with this we feaſted at nether Marlow, where we ſhould haue beene ſtaine, being by the enemies appointed as ſheepe to the ſlaughter. At Benſherie we reſted all Saturday to repaire our ſolues and our armes, where on Saturday the 30. of September wee marched and lay within two miles of Wormes, vnto which we marched on Sunday, the Princes of the Vnion view<g ref="char:EOLhyphen"/>ing vs twice in thoſe two dayes march, with great content, the people with new hopes, and ſo day at the Dorp called Houenhein about 7 miles from the enemies camp at Open<g ref="char:EOLhyphen"/>heim, and neere to the quarter of our friends, on the Weſt ſide of Wormes.</p>
+            <p>From Houenhein we marched the third of October to<g ref="char:EOLhyphen"/>wards Altzen, and loged that night within two miles and a halfe of that Towne into which <hi>Spinola</hi> had put 200. horſe and 1800. foote, and ſome artillery, and an old Com<g ref="char:EOLhyphen"/>mander called <hi>Bellanzoom</hi> to ſecure it, and had alſo fortified, the towne, but eſpecially the Caſtle. The purpoſe of the Princes was to take this towne againe, to which end their armie, all ſaue 4000. foote and 1800. horſe leſt to com<g ref="char:EOLhyphen"/>mand Wormes, were drawne neere to it, the Engliſh nea<g ref="char:EOLhyphen"/>reſt of the foote.</p>
+            <p>But on Wedneſday morning the Princes ſate in coun<g ref="char:EOLhyphen"/>ſell, and by Count <hi>Henry</hi> aduiſed rather to turne backe to Openheim to braue their enemie, then to hazard there their foote in ſo cold a time, for the regaining of a towne ſo well manned, which being got, muſt either be left againe with ſcorne to vs at our departure, or kept with a ſtronger gar<g ref="char:EOLhyphen"/>riſon then might be ſpared. Hereupon we roſe to goe to<g ref="char:EOLhyphen"/>wards the enemie; a bruit being firſt ſpread amongſt vs, that <hi>Spinola</hi> was marching towards Wormes, which made our men riſe with readineſſe and without diſpute why they went not to Altzen.</p>
+            <p>By this aduice giuen by Prince <hi>Henrie,</hi> and ſeconded
+<pb facs="tcp:4656:4"/>by the Lord Generall <hi>
+                  <g ref="char:V">Ʋ</g>ere,</hi> wee ſnare our ſelues, and had caſt it vnawares on our enemies neckes, though wee made no great aduantage of it: for <hi>Spinola</hi> ſuppoſing vs buſied about Altzen, marched towards Altzen with his whole armie, hoping to ſurpriſe the foote before they could be intrenched, the very night after their comming thither, which could not haue beene auolded, our horſe be<g ref="char:EOLhyphen"/>ing diſperſed as they muſt. Thus God brake that ſnare, and deliuered vs. The ſame day wee marched towards the enemies campe, not of knowledge of purpoſe to meete him, but onely to braue him and prouoke him to ſight, which was ſuppoſed he would refuſe. About noone came word that <hi>Spinola</hi> was marching towards vs, which put ſo much life into our noble Generall as I never ſaw in him before, and generally in all our troupes, for wee marched in Battallion, the Engliſh in the Van next after the guard of the Princes, the Dutch foote next after ours, who with ours made vp the number of 6200 foote. About halfe an houre paſt two wee came in ſight of ſome of our enemies troupes, and perceiued ſome skirmiſhing in a bottome, in which wee after heard of foure of our horſe and two of our men ſhot, but wee did not know what dammage they did. On wee marched; but <hi>Spinola</hi> rewarding him very royally that brought him the newes of our marching, ſmiling his ſticke on the ground, ſaying, <hi>Battalio, Battalio,</hi> yet vpon view of our comming vpon him, and of the num<g ref="char:EOLhyphen"/>ber of our horſe, which were one third part more then his, as his foote was almoſt a third more then ours, hee drew backe almoſt two miles, and within two of Open<g ref="char:EOLhyphen"/>heim placed himſelfe in Batalio horſe and foot vpon a hill, whither by reaſon of a deepe valley wee could not ap<g ref="char:EOLhyphen"/>proach but by one paſſage of but reaſonable width, in which hee planted his artillery, which that wee might know to bee there, was diſcharged eight times at a cornet of horſe that lay under a wood, and ſlue a dog, or elſe did not hurt Right a gainſt this of his we planted our artillery on another hil, embatteld our horſe, drew our foote into
+<pb facs="tcp:4656:4"/>the valley before it, where the Dutch guard pleaſed to glue our Engliſh leave to take the Van: by this time it was 3 of the clocke; and thus we ſtood at a mile and half vs di<g ref="char:EOLhyphen"/>ſtance facing one the other, ſtill expecting order to charge, till the night and the newes of an impaſſable way tooke off our hopes. There alſo tooke I vpon mee to goe to the heads of our English troupes, to euery deuiſion apart, to incourage them, which they received with much affection, and generally ſhewed the braueſt reſolution to fight that could be ſeene or wiſhed of men. It was the hand of God that did ſtrangely diſappoint vs of that worke, by which if it had ſucceeded, this poore afflicted people might haue beene relieved, and the war in a manner ended in one day, or at the leaſt Openheim and the bridge might haue beene taken, yea, without ſtroke of battell, if we had but put our armie betwixt <hi>Spinola</hi> and it, which was moued by ſome, but not followed. Count <hi>Henrie</hi> and Generall <hi>Vere</hi> as loth to ouergage their horſe too farre, and diſtruſtfull of the foote, being moſt High Dutch, and vnexperienced, though well diſabled. The Princes of the vnion which had lyen about Openheim, remembred not the paſſage in time, till the aduantage was loſt. The night came on, at the ap<g ref="char:EOLhyphen"/>proch whereof <hi>Spinola</hi> was retired without ſound of drum or Trumpet, and ſhouted for joy when they had thus e<g ref="char:EOLhyphen"/>ſcaped; and leaving vs in the field all night, returned to his quarter, neuer (I ſuppoſe) more glad of any eſcape, which hath rather taken from his glorie, then added to ours. It is true, that when we came after the day to diſcouer our possi<g ref="char:EOLhyphen"/>bilities, we are much more ready to cenſure our greateſt Commanders for that ouerſight of aduantage, then to ac<g ref="char:EOLhyphen"/>knowledge their foreſight for our preſeruation.</p>
+            <p>The opinion is, that except the Prince foote bee rein<g ref="char:EOLhyphen"/>forced by more Engliſh, of whom they haue a great opini<g ref="char:EOLhyphen"/>on, the Princes will hardly give battell to the enemies, and conſequently the poore people be eaten vp as well of their friends as enemies.</p>
+            <p>The Townes which <hi>Spinola</hi> hath taken are of no ſtrength,
+<pb facs="tcp:4656:5"/>and yeelded without any ſtroke, alſo did alſo ſome ſtrong forts poſſeſſed by the Boores, whom the very name of a ſouldier conquered. In the meane time God purſueth our enemies with mortall ſickneſſe, and iudging them fit to bee puniſhed, but not by vs: nor doe I maruell at this our out<g ref="char:EOLhyphen"/>rage conſidered; for even we that in reſpect of the cauſe fight for God, doe in our behauiour fight againſt him, I ſpeake not of all, but of many of our troupes, who doe pleade greater abuſes in other inſtead of their owne ver<g ref="char:EOLhyphen"/>tues, and reckon ſome deboyſes to their callings, which onely ſpring from their owne perſonall wildneſſe.</p>
+            <p>Since the fourth of October, wee haue twice remoued, and now lye at Niterſein betweene Wormes and Frankin<g ref="char:EOLhyphen"/>dal, vncertaine whether wee ſhall be called to buſineſſe or garriſon. On the morrow after our returne, ſome went to Arwen, the place where our enemies ſtood, and there found ſome 7. or 8. Italians and 26. Spaniſh women, which Cap<g ref="char:EOLhyphen"/>taine <hi>Proud</hi> tooke there priſoners. The ſame morning <hi>Spi<g ref="char:EOLhyphen"/>nola</hi> ſent certaine troupes of horſe to obſerue our riſing, whereof 600. were charged by the Duke of Brundſwicke, and Sir <hi>William Dalford</hi> with 300. of our horſe, who alſo cut off and tooke ſix of the enemies.</p>
+            <div type="letter">
+               <head>Frankindale, Ianuary <hi>9. 1620.</hi>
+               </head>
+               <p>COncerning the late lamentable defeature of the King of Bohemia his armie, I ſuppoſe you haue heard e<g ref="char:EOLhyphen"/>nough, perhaps more then truth. The loſſe of men was little, for on both ſides there fell not aboue 22, hundred, inſomuch as ſome did blame the cowardize of our partie, which others called trecherie. The loſſe of honour, mu<g ref="char:EOLhyphen"/>nition, of treaſure and baggage was great, but the loſſe of the Kingdome much greater, which except one place of ſtrength, is ſaid to be reuolted to the ſtronger party, though of that ſo ill intreated, as if occaſion were, they would quickly ſhew to whom their hearts were ſubiect, euen the
+<pb facs="tcp:4656:5"/>Romiſh part it ſelfe.</p>
+               <p>The King (and Queene great with child) hauing re<g ref="char:EOLhyphen"/>ceiued the oath of Allegiance from thoſe of Silecia, and promiſe of their uttermoſt aſſiſtance, as being firme in their Religion, haue retired themſelues into the country of Brandenburg, together with the Prince of Anhault, and there both of them (the Queene eſpecially) do make all commers to be witneſſes of their ſingular moderati<g ref="char:EOLhyphen"/>on, patience, deuotion, and confidence in God. And this I would haue you to beleeue, that the world in many ages did hardly ſee ſuch a paire of that ranke, and ſurely this tri<g ref="char:EOLhyphen"/>bulation ſhall do them good.</p>
+               <p>A report was ſpread in theſe parts that the Queene was dead in child, bed a moneth ſince, but I ſpake with one that came from her preſence within theſe nine dayes, and and left her in good health, and daily expectation of deli<g ref="char:EOLhyphen"/>verance, which God grant, and I truſt we ſhall heare well.</p>
+               <p>
+                  <hi>Bethlem Gabor</hi> beheaded the Generall, and ſome other officers of thoſe forces he ſent into Bohemia as ſoone as they returned into Hungaria, for their cowardly running away; and threatned that if hereafter any of his made the like fault he would raze out their poſteritie: thoſe troupes were 10000.</p>
+               <p>VVe ſay without variance, that he prepares to aide the King of Bohemia with 30000 men, which hee may the better do; becauſe the Polanders which found him worke at home, haue bin lately broken by the armie of the Turks, and Tartarians, which lately, ſlaughtering 20000 of them, haue ſucceeded farre into that kingdome, and are like to poſſeſſe it. A remedy worſe then the diſeaſe.</p>
+               <p>There is much ſpeech here of the King of Denmarke his purpoſe to ſhew him ſelfe in perſon, and with an army for the King of Bohemia, and ſome hopes they haue that England will help to repaire that loſſe, of which the world makes it too blame, whiles the treatiſe of peace foreſlowed ſome helpes for it, and ſhadowed the reſolution of the e<g ref="char:EOLhyphen"/>nemie but this perpaps is but a part of that libertie which
+<pb facs="tcp:4656:6"/>men take to judge of colours by candle-light.</p>
+               <p>Before that late battell by Prague was fought, one <hi>Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>torius</hi> Miniſter of Adorpe in the Palatinate called Treſh<g ref="char:EOLhyphen"/>iem, addreſſed himſelfe to the Kings Councell at Heidel<g ref="char:EOLhyphen"/>berg; and perſwaded them to haſten a Poſte to the King, to wiſh him to ſhift for himſelfe, for within eight dayes Prague ſhould be taken, (which indeed fell out) adding that the King in or before 1623. ſhould with an army re<g ref="char:EOLhyphen"/>couer that kingdome, and be made Emperour. Of the lat<g ref="char:EOLhyphen"/>ter men thinke the more, becauſe the former fell out ſo right.</p>
+               <p>In the Palatinate the diſtreſſe is great, and greatned by ſcare that the Empererours forces left in Bohemia will make their way through the upper Palatinate unto <hi>Spino<g ref="char:EOLhyphen"/>la</hi> in the lower, and (if <hi>Bethlem Gabor</hi> divert them not by inuaſion of Bohemia or Auſtria; it is probable.)</p>
+               <p>The biſhop of Tryer hath reedified a ſort vpon the Rhine beyond Tryer, which the King of Bohemia had ſome foure yeares ſince ſuddenly in one night ſurpriſed. This is now finiſhed, and furniſhed with 3000 men and ſixteene peeces of Ordinance, and lyes ſit to cut off all ſuc<g ref="char:EOLhyphen"/>cours which might from thoſe parts come to vs, or to be a bridge for the enemie into that part of the Palatinate which lieth on the Eaſt ſide of the Rhine, and is yet un<g ref="char:EOLhyphen"/>touched.</p>
+               <p>Count <hi>Iohn</hi> of Naſſaw who commanded the natiues of this countrey and the trained Boores, is cenſured for ſuffering this worke, but he diſchargeth himſelfe on the Princes of the Vnion, in that he did weekly aduertiſe them of it; therefore the people do blame and boldly call their fidelitie into queſtion, not conſidering that if they had ſent forces conuenient to ſtop that worke, they ſhould haue expoſed the Citie of Wormes, Frankindale, and other townes neare the enemie; to apparent danger, their at my being weake enough to encounter the enemy when it was all together.</p>
+               <p>The Dorpes are miſerably taxed and forraged by the
+<pb facs="tcp:4656:6"/>enemy, and almoſt asmuch by their owne horſel, whoſe outrages haue darkened thoſe of our troupes, and gotten vs reputation.</p>
+               <p>Our troupes haue bin very diſorderly and vile in pilla<g ref="char:EOLhyphen"/>ges and quarelling amongſt themſelves, and chiefly in ſwearing and drunkenneſſe, againſt which the noble Ge<g ref="char:EOLhyphen"/>nerall and ſome of his Officers and my ſelfe in my place haue made what reſiſtance we could, my ſelfe with ſome danger; and though we haue not bin able to ſtem the cur<g ref="char:EOLhyphen"/>rent yet haue we by Gods mercie much preuailed of late ſo we labour with much griefe and ſome hope, Pray for vs, and for me.</p>
+               <p>God hath alſo ſet vpon vs, for about 300 of ours are dead of a contagious Feuer, which as our wine and drun<g ref="char:EOLhyphen"/>kenneſſe thereby abounded, did increaſe both in quantitie of infection and mortalitie of diſeaſe, and on ſome per<g ref="char:EOLhyphen"/>ſons by botches and ſpots appeared to be the Plague. Thoſe which by example or tolleration of their Captains were moſt notorious, haue borne this ſtroke in propor<g ref="char:EOLhyphen"/>tion; among whom this alſo fell out, that ſome of the firſt diſordered with drinke, fell euen then into madneſſe with their ſickneſſe, which euen arreſted them, and never left them till they died; which being obſerued, and by my ſelfe publikly preſt, cauſed ſome to haſte from vs into England with their faults on their backs, and ſome others by Gods mercie do ſcare and refraine.</p>
+               <p>This rod of God is in a manner remoued, for ſew fall ſicke of late, and of them ſcarce one dieth, yet haue we not bin ſmitten as our enemies, for of them we haue of certaine, that 10000 are waſted, and moſt by ſickneſſe.</p>
+               <p>Three thouſand of <hi>Spinoldes</hi> men lately returned into Flanders, being thoſe which were laſt ſent vpon Count <hi>Henries</hi> coming and ours they in their returne ſummo<g ref="char:EOLhyphen"/>ned Fryburg an Imperiall Citie (as ſtake in Naſſaw) took it by compoſition, and after (contrary to promiſe) carried thence fiftie peeces of artillery and great ſtore of come downe the Rhine, which cauſed them of Frankford to
+<pb facs="tcp:4656:7"/>abhor the rendring of the Citie into their enemies hands to which they were before inclined. How good is he that drawes good out of euill?</p>
+               <p>Our troupes neuer came to blowes, but are eager of it beyond all beliefe, and now by daily experience well brought to know their weapons. Or their valour the Country takes generall notice, and namely of their defen<g ref="char:EOLhyphen"/>ding thirtie of them, an open Dorpe from the forraging of 200 horſe of their owne partie, wherein the Engliſh repulſed them ſtoutly, and made them retire with loſſe. Oh if God would give vs more to feare him, how would he honour vs? By this you ſee what need I haue of many prayers, and this poore people alſo: and how it concernes our nation to yeeld what comfort they can to this afflicted ſtate and Church, to which God enlarge all mens hearts.</p>
+            </div>
+            <div type="letter">
+               <head>Frankindale, Ianuary <hi>29. 1620.</hi>
+               </head>
+               <p>SInce our coming <hi>Spinola</hi> hath bin ſtopped, and himſelf three ſeuerall times bin forced rather to retraite then ioyne battell with vs: ſo far hath God bleſſed our ſmall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roupes, and made them defenders, though not deliverers <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>of the Palatinate. And though our troupes by that mor<g ref="char:EOLhyphen"/>talitie we had, and by the departure and running away of many, were much leſſened, yet are they filled vp with ſuch, as from vnder Coronell <hi>Gray</hi> and others haue come to vs out of Bohemia, ſo as with Officers and all, wee are not leſſe then 2000 men, who being exerciſed with the uſe of their armes, will be vnto vs twice themſelves, if God will uſe them. You haue a contrary opinion of vs in En<g ref="char:EOLhyphen"/>gland, but this I ſay is true.</p>
+               <p>The Princes of the Vnion are wonderfully cheared with the mony &amp; meſſage which his Maieſtie ſent them by Sir <hi>Albertus Mourton,</hi> and are now drawing toward Holbrun, where their diet is appointed on the 28 of this Moneth to conſult of further courſes.</p>
+               <pb facs="tcp:4656:7"/>
+               <p>Some conceit they haue of peace, but beſides our Kings, mediation for it, I heare not of any ground they haue vnleſſe the working of their deſires, which you know pro<g ref="char:EOLunhyphen"/>duceth oftentimes the fume of falſe hope, no hope indeed</p>
+               <p>In Bohemia Count Maunsfield hath taken ſome ſmall Townes, and aſſured ſome others to the King; and Prague it ſelfe is ſo weary of their curbe, that if any meane ſuccor be ſent them, it is probable they will, it is certaine they de<g ref="char:EOLhyphen"/>ſire to ſhake it off.</p>
+               <p>The King and Queene of Bohemia do beare their affli<g ref="char:EOLhyphen"/>ctions with ſuch patience &amp; piety, as haue added more true honour to them then victory could haue done; and makes me hope that God will in his time lift them vp againe, to the aſtoniſhment of their enemies, and joy of his people. From them lately came a command for a ſolemne day of faſting and prayer, beſides their monethly bid dayes, and daily Church-prayers, which was accordingly performed January the 14.</p>
+               <p>The Queene was brought to bed of a yong Prince the ſixt of Ianuary, and baptized the eight of Ianuary, 1620. his name is <hi>Mauricius.</hi>
+               </p>
+               <p>Bucquoy is paſt through Morauia without reſiſtance, and is as they ſay reſiſted by <hi>Bethlem Gabor</hi> in Hungaria.</p>
+               <p>For repreſſe of ſwearing in our armie, our worthy Ge<g ref="char:EOLhyphen"/>nerall hath cauſed memorable puniſhments to be execu<g ref="char:EOLhyphen"/>ted on them, as boring through the tongue, the Strapado, and baniſhment.</p>
+               <closer>
+                  <signed>Your louing friend, I. B.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Frankindale the <hi>26</hi> of February, <hi>1620.</hi>
+               </head>
+               <p>BY letters written the 29. of Ianuary laſt, I hope you vnderſtand are this how things then ſtood in the Pa<g ref="char:EOLhyphen"/>latinate.</p>
+               <pb facs="tcp:4656:8"/>
+               <p>About that time the Princes of the Vnion met at Hel<g ref="char:EOLhyphen"/>brun in the Dukedome of Wittenberg, where they yet remaine in conſultation, and amongſt them the Mar<g ref="char:EOLhyphen"/>graue of Ausburg, Generall of all their forces in the Pal<g ref="char:EOLhyphen"/>latinate, and ſome other chiefe Officers, Count <hi>Solms</hi> be<g ref="char:EOLhyphen"/>ing left to commaund in chiefe at Wormes in their ab<g ref="char:EOLhyphen"/>ſence. <hi>Spinola</hi> taking the aduantage hereof, did with ſome of his troupes aſſault in the night a walled Dorpe called Weſt Oven ſome fiue Engliſh miles from Wormes, and did the next day about noone take it, and in it 300 foote ſouldiers there quartered and thirtie horſe, with loſſe of 50 of his men. The ſouldiers ſpoiled of their armes, were the next day put to their choiſe, of returning to the Prin<g ref="char:EOLhyphen"/>ces, or ſeruing the enemy. The one halfe returned, the o<g ref="char:EOLhyphen"/>ther reuolted. This was done the fifth of February, at which time the towne was put to ranſome of 10000. Count <hi>Solms</hi> tooke the alarme, and drew out the horſe troupes, when all was done: ſo he onely ouertooke and tooke ſome ſixe of their ſtraggling horſe priſoners. Vpon this occaſion the Margraue of Ausburg was ſuddenly re<g ref="char:EOLhyphen"/>called to Wormes, but after few dayes went againe to Hel<g ref="char:EOLhyphen"/>brun, and in his ſtead came the Marquis of Bauden, who lies now at Wormes full of the gout, but a valiant Prince.</p>
+               <p>On the 23 of February the foreſaid towne of weſt O<g ref="char:EOLhyphen"/>ven and Eaſt Ouen by it were both burnt to the ground, being each of them bigger then Bromingham, by com<g ref="char:EOLhyphen"/>mand of the Marquis, vpon intelligence that the enemie had deſigned to lodge his men, and there to watch his op<g ref="char:EOLhyphen"/>portunitie of aſſailing Wormes or Frankindale, which he might from thence haue done in three houres march.</p>
+               <p>This thing though neceſſarily done for the ſafetie of the reſt, yet hath brought a maruellous feare vpon this people: every man either pittying the miſery of thoſe many ruined in habitants, or fearing that his owne turne is not farre off to be vndone.</p>
+               <p>We haue had many alarmes, and haue bin drawne out of our garriſon ſundry times, but to no vſe, onely our
+<pb facs="tcp:4656:8"/>troupes haue had the oportunitie of ſhewing their alacritie and willingneſſe to ſight, which is admired of this peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>Count <hi>Iohn</hi> of Naſſaw who commanded the natiues of the Palatinate, being threatned with the loſſe of his owne country, vnleſſe he would quit his ſervice, hath now with<g ref="char:EOLhyphen"/>drawne himſelfe, and left his name to conſtruction.</p>
+               <p>It is much feared that the Princes wil prouide for their owne peace, and abandon this poore countrey, which is like to be left vpon the mercifull hand of God, who is a<g ref="char:EOLhyphen"/>ble to deliuer them, and in his good time wil do it, though we yet ſee not the meanes.</p>
+               <p>Meane time in Bohemia Count Mansfield hath rifled much, and taken ſundry townes, and is like enough to re<g ref="char:EOLhyphen"/>couer Prague, if he had but meanes enough to pay his men, which he utterly wants.</p>
+               <p>Coronell <hi>Grays</hi> regiment being reduced to 300, was lately beſieged in a towne of Bohemia, and did in three aſſaults repulſe the enemie brauely.</p>
+               <p>In Morauia <hi>Bucquoy</hi> his forces haue lately received two great ouerthrowes by Count de Turn aſſiſted with <hi>Beth<g ref="char:EOLhyphen"/>lem Gabors</hi> troupes, in which the Imperialiſts are ſaid to haue leſt 27 or 28 Enſignes.</p>
+               <p>The Emperour hath put out the Banne againſt the King of Bohemia, the Prince of Anhault the Marquis of Brandenburgh, and all the Kings aſſiſtants.</p>
+               <p>Our troupes continues 2000. by the ſupplies wee haue met withall, and are much better diſciplined and ordered then they were before, and ſome there are whom God I truſt hath effectually called by his word and rod unto true grace.</p>
+               <p>Our noble Generall (thanked be God) is in good health, and growes in all goodneſſe, &amp;c.</p>
+               <p>Thus beſeeching God to bleſſe you with all yours, and praying you to ſtirre vp all the prayers you can for the di<g ref="char:EOLhyphen"/>ſtreſſed people of God here, and even for our troupes, and for me, that I may do the great worke of God faithfully
+<pb facs="tcp:4656:9"/>and fruitfully in this emploiment, I take my leave, and re<g ref="char:EOLhyphen"/>maine</p>
+               <closer>
+                  <signed>Yours, much bound and much affectioned to you, I. B.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Frankindale, <hi>31</hi> of March <hi>1621.</hi>
+               </head>
+               <p>SIr, I receiued your ſecond letters the 23 of March, and thanke you heartily for them. Newes out of any farre country brings ſome delight, how much more out of a mans owne country, when he is farre from it, and ſpecially when it is all very good, or not very ill. From hence I ſhal not be able by exchange to make retribution to you, not becauſe I am vnwilling to do it but becauſe the exchange goes ſo low at the preſent. But take it as it is.</p>
+               <p>We yet are and haue bin a moneth in treatie of truce for ſix weekes. This day the Margraue of Ausberg and <hi>Spino<g ref="char:EOLhyphen"/>la,</hi> with the Biſhop of Ments and Count de Ormſtat (which two laſt haue bin interpoſers for peace) do meet at Ormſtat, a dayes journey from Wormes, to finiſh this Treatie, in ceſſation (as is hoped) from armes for two moneths: vpon which, <hi>Spinola,</hi> with moſt of his, will look back, not ſo much for loue of Flanders, as for feare of the States army now drawing forth.</p>
+               <p>The French King hath lately encouraged the Princes to hold their vnion, with promiſe of aid; whether really; as iealous of the Auſtrian greatneſſe, or <hi>more maiorum</hi> that with leſſe diſtaſte of theſe Princes hee may afflict his of the Religion, <hi>pendre le temps.</hi>
+               </p>
+               <p>
+                  <hi>Bathl. Gabor</hi> is ſaid to be off his treatie with the Empe<g ref="char:EOLhyphen"/>rour by the Venetians perſwaſions, and in armes vpon the reuolters of Morauia wth 30000 men.</p>
+               <p>From the Kings of Denmarke and Sweden, and the Duke of Brunſwick and Haunce townes, 3000 men are in readineſſe, if not already in their march, for the Kings aid; but whether here or in Bohemia, is yet vnknowne to
+<pb facs="tcp:4656:9"/>vs, becauſe both wayes reported.</p>
+               <p>Count Mansfield growes daily in ſtrength, and hath re<g ref="char:EOLhyphen"/>couered the ſeuen peeces of Cannon left by Prague. The great Turke is expected in Polonia this Summer in perſon with 300000. Al which things wil in likelihod moue the Emperiall partie to take thankes for giving that peace in the Palatinate, which they might better haue giuen thanks to take: if that point had been ſtood vpon. But in appea<g ref="char:EOLhyphen"/>rance God will give this poore and good people peace, which ſhall be to them the beſt. And bleſſed be the peace<g ref="char:EOLhyphen"/>makers. This being all that I haue for the preſent, I com<g ref="char:EOLhyphen"/>mend you Sir to the protection and bleſſing of God our Father, and remaine</p>
+               <closer>
+                  <signed>Your louing brother and friend, I. B.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:4656:10"/>
+            <head>Articles of Agreement, by the mediation of the Lords the Princes the Elector of Ments and <hi>Lodowick</hi> the Lantgraue of Haſſia, and concluded betwixt the Lord Mar<g ref="char:EOLhyphen"/>quis <hi>Spinola</hi> Captaine Generall of the armie of the Emperours Maieſtie in the Pallatinate on the one part, and the Lord <hi>Ioachim Erneſt</hi> of Ausburg Generall of the armie of the Euangelik Vnion, and <hi>Iohn Frederick</hi> Duke of Wittemberg, as wel for themſelves as other Princes and States vnited on the other part.</head>
+            <p>FIrſt of all it is agreed betwixt the ſaid Princes and States henceforth wholy to forbeare all hoſtilitie be<g ref="char:EOLhyphen"/>twixt the<g ref="char:cmbAbbrStroke">̄</g>, ſo as the ſaid Princes &amp; States of the Vnio<g ref="char:cmbAbbrStroke">̄</g> and their army ſhall at no hand from henceforth impeach the Lord Marquis <hi>Spinola,</hi> nor his forces or places which be in his power, nor any other compriſed in this treatie, or their lands or dominions: neither ſhall aſſiſt <hi>Frederick</hi> the Palatine with mony, men, or by any other meanes di<g ref="char:EOLhyphen"/>rectly or indirectly by themſelves or by others meanes: and ſhall not proroge their vnion formerly made, neither in fauour of <hi>Frederick</hi> the Palatine, nor againſt the Em<g ref="char:EOLhyphen"/>periall Maieſty make a new one, but before the expiration of the terme of the Vnion, that is to ſay, the 14 day of May next com<g ref="char:cmbAbbrStroke">̄</g>ing, all their forces as well priuate as common ſhall draw off out of the Pallatinate of other place ſeaſed on for defence of the Pallatinate, and cauſe the ſame to depart, and ſhall continue themſelves faithfull and obedi<g ref="char:EOLhyphen"/>ent Princes and States to the Emperours Maieſtie, as they haue often before this time profeſſed to do.</p>
+            <p>On the other ſide the Lord Marquis <hi>Spinola</hi> ſhall from henceforth attempt no hoſtile thing againſt the Lords and States vnited, their perſons, ſouldiers, officials, ſub<g ref="char:EOLhyphen"/>iects, caſtles, cities and lands, neither by pillages, exacti<g ref="char:EOLhyphen"/>ons, excurſions, nor by any other meanes.</p>
+            <pb facs="tcp:4656:10"/>
+            <p>And in this Agreement are comprehended as well thoſe mentioned in the concord of Vlmes as other Ele<g ref="char:EOLhyphen"/>ctors, Princes, States and Nobles of the Empire, whether of the Catholick or Euangelick Religion, yet ſo that the parties aforeſaid meane not in this place to determine any thing concerning the land of Iulier.</p>
+            <p>And as concerning the Palatine <hi>Frederick</hi> (whom the things foreſpoken touch not) the ſaid Lord Marquis <hi>Spinola,</hi> at the requeſt of the King of Great Brittaine, hath promiſed from henceforth vntill the foreſaid terme of the 14 of May, not to proceed in the execution of the Palla<g ref="char:EOLhyphen"/>tinate, to him committed, but for ſo long to ſuſpend the execution, yet on the conditio<g ref="char:cmbAbbrStroke">̄</g>, that the Princes of the V<g ref="char:EOLhyphen"/>nion ſhall prouide ſo, that the proper forces of the ſaid Palatine, whether being in the ſaid Palatinate or the bor<g ref="char:EOLhyphen"/>dering places, practiſe no hoſtilitie againſt the ſaid Mar<g ref="char:EOLhyphen"/>quis <hi>Spinola</hi> nor his armie, or the places which he hath ta<g ref="char:EOLhyphen"/>ken, or others the loyall States of the Empire, their mini<g ref="char:EOLhyphen"/>ſters or ſubiects.</p>
+            <p>And to the end that the neighbour Princes and States, and their ſubiects and others reſiant in their territories, may not be grieued or indammaged by the ſouldiers of either partie, the aforeſaid Chiefs of both armies haue promiſed ſeriouſly and faithfully to procure that all ex<g ref="char:EOLhyphen"/>curſions, pillages, and other annoyances in their territo<g ref="char:EOLhyphen"/>ries and prouinces ſhall be wholy reſtrained and forborne, and ſafetie of the wayes and trafficke aduanced.</p>
+            <p>For the better aſſurance of all which promiſes, they of<g ref="char:EOLhyphen"/>ten forenamed Princes of both parties, together with the Princes Intervenneng haue confirmed this ſame with their hands and ſeales; and Marquis <hi>Spinola</hi> ſhall with all ſpeed procure that the ſame ſhall be ratified by the ſacred Imperiall Maieſtie and the Lord Archduke <hi>Albertus.</hi>
+            </p>
+            <closer>
+               <dateline>Acted at Ments <date>the <hi>12</hi> of April <hi>1621.</hi>
+                  </date>
+               </dateline> 
+               <signed>Ambr. Spi<g ref="char:EOLhyphen"/>nola, Io. Ep. of Ments, Lod. Landgr. of Haſſia, Io<g ref="char:EOLhyphen"/>ach. Erneſt Marg. of Ausburg, Ioh. Duke of Wit<g ref="char:EOLhyphen"/>temberg.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
